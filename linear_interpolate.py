@@ -6,8 +6,10 @@ import yfinance as yf
 
 #Colecting data
 market = 'GOOGL'
-end = dt.datetime(2017, 12, 31)
-start = dt.datetime(2016, 1, 27)
+start = dt.datetime(2023, 6, 1)
+end = dt.datetime.today()
+
+
 market_data = yf.download(tickers=['^GSPC'], start=start, end=end)
 
 #Calculating EMA and difference
