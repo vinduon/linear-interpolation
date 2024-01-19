@@ -1,5 +1,7 @@
 # Linear interpolation
 
+<img src="Figure_1.png"  width="600" height="400">
+
 Excute code script:
 
 ```bash
