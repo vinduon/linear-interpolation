@@ -1,4 +1,4 @@
-# Linear interpolation
+# Stock trending analysis with linear interpolation
 
 <img src="Figure_1.png"  width="600" height="400">
 
